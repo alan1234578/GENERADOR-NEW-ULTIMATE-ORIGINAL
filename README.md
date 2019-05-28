@@ -1,4 +1,4 @@
-﻿# GENERADOR-NEW-ULTIMATE-ORIGINAL
+﻿# adm-NEW-slan-peru
 
 ![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/INSTALL_GENERADOR.png)
 
